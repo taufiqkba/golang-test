@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func main() {
+func feature1() {
 	fmt.Println("Hello Feature 1 is here!")
 }
