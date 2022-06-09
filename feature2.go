@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func feature2() {
-	fmt.Println("Hello feature2 nich!")
+	fmt.Println("Go file feature2 disini!")
 }
